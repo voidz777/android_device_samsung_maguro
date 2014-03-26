@@ -1,0 +1,22 @@
+[
+    {
+        "repository":   "SlimRoms/proprietary_vendor_samsung",
+        "target_path":  "vendor/samsung",
+        "branch":     "kk4.4"
+    },
+    {
+        "repository":   "SlimRoms/proprietary_vendor_imgtec",
+        "target_path":  "vendor/imgtec",
+        "branch":     "kk4.4"
+    },
+    {
+        "repository":   "SlimRoms/device_samsung_tuna",
+        "target_path":  "device/samsung/tuna",
+        "branch":     "kk4.4"
+    },
+    {
+        "repository":  "SlimRoms/kernel_samsung_tuna",
+        "target_path": "kernel/samsung/tuna",
+        "branch": "kk4.4"
+    }
+]
