@@ -1,22 +1,47 @@
 [
     {
-        "repository":   "SlimRoms/proprietary_vendor_samsung",
-        "target_path":  "vendor/samsung",
-        "branch":     "kk4.4"
+        "repository":   "voidz777/hardware_ti_omap4xxx",
+        "target_path":  "hardware/ti/omap4xxx",
+        "branch":     "master"
     },
     {
-        "repository":   "SlimRoms/proprietary_vendor_imgtec",
-        "target_path":  "vendor/imgtec",
-        "branch":     "kk4.4"
+        "repository":   "voidz777/android_vendor_samsung",
+        "target_path":  "vendor/samsung/maguro",
+        "branch":     "master"
     },
     {
-        "repository":   "SlimRoms/device_samsung_tuna",
+        "repository":   "voidz777/android_vendor_broadcom",
+        "target_path":  "vendor/broadcom/maguro",
+        "branch":     "master"
+    },
+    {
+        "repository":   "voidz777/android_vendor_imgtec",
+        "target_path":  "vendor/imgtec/maguro",
+        "branch":     "master"
+    },
+    {
+        "repository":   "voidz777/android_vendor_invensense",
+        "target_path":  "vendor/invensense/maguro",
+        "branch":     "master"
+    },
+    {
+        "repository":   "voidz777/android_vendor_nxp",
+        "target_path":  "vendor/nxp/maguro",
+        "branch":     "master"
+    },
+    {
+        "repository":   "voidz777/android_vendor_widevine",
+        "target_path":  "vendor/widevine/maguro",
+        "branch":     "master"
+    },
+    {
+        "repository":   "voidz777/android_device_samsung_tuna",
         "target_path":  "device/samsung/tuna",
-        "branch":     "kk4.4"
+        "branch":     "master"
     },
     {
-        "repository":  "SlimRoms/kernel_samsung_tuna",
+        "repository":  "voidz777/android_kernel_samsung_tuna",
         "target_path": "kernel/samsung/tuna",
-        "branch": "kk4.4"
+        "branch": "master"
     }
 ]
