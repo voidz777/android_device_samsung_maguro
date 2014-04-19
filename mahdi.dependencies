@@ -1,10 +1,5 @@
 [
     {
-        "repository":   "voidz777/hardware_ti_omap4xxx",
-        "target_path":  "hardware/ti/omap4xxx",
-        "branch":     "master"
-    },
-    {
         "repository":   "voidz777/android_vendor_samsung",
         "target_path":  "vendor/samsung/maguro",
         "branch":     "master"
